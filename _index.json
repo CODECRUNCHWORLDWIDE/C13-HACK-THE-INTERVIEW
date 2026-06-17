@@ -2,6 +2,10 @@
   "repo": "C13-HACK-THE-INTERVIEW",
   "files": [
     {
+      "path": "00-overview.md",
+      "title": "C13-HACK-THE-INTERVIEW"
+    },
+    {
       "path": "CODE_OF_CONDUCT.md",
       "title": "Contributor Covenant Code of Conduct"
     },
@@ -10,564 +14,616 @@
       "title": "Contributing to Hack the Interview"
     },
     {
-      "path": "README.md",
-      "title": "C13-HACK-THE-INTERVIEW"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/README.md",
+      "path": "curriculum/week-01-the-hiring-pipeline/00-overview.md",
       "title": "Week 1 \u2014 The Hiring Pipeline"
     },
     {
-      "path": "curriculum/week-01-the-hiring-pipeline/challenges/README.md",
-      "title": "Week 1 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/challenges/challenge-01-reverse-engineer-a-job-posting.md",
-      "title": "Challenge 1 \u2014 Reverse-engineer a job posting"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/challenges/challenge-02-funnel-projection.md",
-      "title": "Challenge 2 \u2014 Funnel projection"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/exercises/README.md",
-      "title": "Week 1 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/exercises/exercise-01-build-the-spreadsheet.md",
-      "title": "Exercise 1 \u2014 Build the spreadsheet"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/exercises/exercise-02-draft-30-companies.md",
-      "title": "Exercise 2 \u2014 Draft 30 companies"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/exercises/exercise-03-write-five-outreach-messages.md",
-      "title": "Exercise 3 \u2014 Write five outreach messages"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/homework.md",
-      "title": "Week 1 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/lecture-notes/01-the-hiring-pipeline.md",
-      "title": "Lecture 1 \u2014 The Hiring Pipeline"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/lecture-notes/02-funnel-math-and-target-lists.md",
-      "title": "Lecture 2 \u2014 Funnel Math + Target Lists"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/lecture-notes/03-outreach-recruiters-and-ats.md",
-      "title": "Lecture 3 \u2014 Outreach, Recruiters, and the ATS"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/mini-project/README.md",
-      "title": "Mini-Project \u2014 The Tracking Dashboard"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/quiz.md",
-      "title": "Week 1 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-01-the-hiring-pipeline/resources.md",
+      "path": "curriculum/week-01-the-hiring-pipeline/01-resources.md",
       "title": "Week 1 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-02-resume-that-survives-ats/README.md",
+      "path": "curriculum/week-01-the-hiring-pipeline/02-lecture-notes/01-the-hiring-pipeline.md",
+      "title": "Lecture 1 \u2014 The Hiring Pipeline"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/02-lecture-notes/02-funnel-math-and-target-lists.md",
+      "title": "Lecture 2 \u2014 Funnel Math + Target Lists"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/02-lecture-notes/03-outreach-recruiters-and-ats.md",
+      "title": "Lecture 3 \u2014 Outreach, Recruiters, and the ATS"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/03-exercises/00-overview.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/03-exercises/exercise-01-build-the-spreadsheet.md",
+      "title": "Exercise 1 \u2014 Build the spreadsheet"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/03-exercises/exercise-02-draft-30-companies.md",
+      "title": "Exercise 2 \u2014 Draft 30 companies"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/03-exercises/exercise-03-write-five-outreach-messages.md",
+      "title": "Exercise 3 \u2014 Write five outreach messages"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/04-challenges/00-overview.md",
+      "title": "Week 1 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/04-challenges/challenge-01-reverse-engineer-a-job-posting.md",
+      "title": "Challenge 1 \u2014 Reverse-engineer a job posting"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/04-challenges/challenge-02-funnel-projection.md",
+      "title": "Challenge 2 \u2014 Funnel projection"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/05-quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/06-homework.md",
+      "title": "Week 1 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-01-the-hiring-pipeline/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The Tracking Dashboard"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/00-overview.md",
       "title": "Week 2 \u2014 The Resume That Survives the ATS"
     },
     {
-      "path": "curriculum/week-02-resume-that-survives-ats/challenges/README.md",
-      "title": "Week 2 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/challenges/challenge-01-the-30-second-test.md",
-      "title": "Challenge 1 \u2014 The 30-second test"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/exercises/README.md",
-      "title": "Week 2 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/exercises/exercise-01-parse-your-own-resume.md",
-      "title": "Exercise 1 \u2014 Parse your own resume"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/exercises/exercise-02-rewrite-five-bullets.md",
-      "title": "Exercise 2 \u2014 Rewrite five bullets"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/exercises/exercise-03-tailor-for-three-roles.md",
-      "title": "Exercise 3 \u2014 Tailor for three roles"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/homework.md",
-      "title": "Week 2 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/lecture-notes/01-what-the-ats-actually-sees.md",
-      "title": "Lecture 1 \u2014 What the ATS Actually Sees"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/lecture-notes/02-bullet-rewrites-from-duties-to-outcomes.md",
-      "title": "Lecture 2 \u2014 Bullets: From Duties to Outcomes"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/mini-project/README.md",
-      "title": "Mini-Project \u2014 Resume v2: ATS-tested, peer-reviewed"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/quiz.md",
-      "title": "Week 2 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-02-resume-that-survives-ats/resources.md",
+      "path": "curriculum/week-02-resume-that-survives-ats/01-resources.md",
       "title": "Week 2 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-03-linkedin-github-portfolio/README.md",
+      "path": "curriculum/week-02-resume-that-survives-ats/02-lecture-notes/01-what-the-ats-actually-sees.md",
+      "title": "Lecture 1 \u2014 What the ATS Actually Sees"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/02-lecture-notes/02-bullet-rewrites-from-duties-to-outcomes.md",
+      "title": "Lecture 2 \u2014 Bullets: From Duties to Outcomes"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/03-exercises/00-overview.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/03-exercises/exercise-01-parse-your-own-resume.md",
+      "title": "Exercise 1 \u2014 Parse your own resume"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/03-exercises/exercise-02-rewrite-five-bullets.md",
+      "title": "Exercise 2 \u2014 Rewrite five bullets"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/03-exercises/exercise-03-tailor-for-three-roles.md",
+      "title": "Exercise 3 \u2014 Tailor for three roles"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/04-challenges/00-overview.md",
+      "title": "Week 2 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/04-challenges/challenge-01-the-30-second-test.md",
+      "title": "Challenge 1 \u2014 The 30-second test"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/05-quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/06-homework.md",
+      "title": "Week 2 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-02-resume-that-survives-ats/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Resume v2: ATS-tested, peer-reviewed"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/00-overview.md",
       "title": "Week 3 \u2014 LinkedIn, GitHub, and the Public Surface"
     },
     {
-      "path": "curriculum/week-03-linkedin-github-portfolio/challenges/README.md",
-      "title": "Week 3 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/challenges/challenge-01-the-recruiter-skim-test.md",
-      "title": "Challenge 1 \u2014 The recruiter skim test"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/exercises/README.md",
-      "title": "Week 3 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/exercises/exercise-01-rewrite-headline-and-about.md",
-      "title": "Exercise 1 \u2014 Rewrite headline and About"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/exercises/exercise-02-pin-three-best-repos.md",
-      "title": "Exercise 2 \u2014 Pin three best repos"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/exercises/exercise-03-readme-for-your-top-project.md",
-      "title": "Exercise 3 \u2014 README for your top project"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/homework.md",
-      "title": "Week 3 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/lecture-notes/01-the-linkedin-profile-recruiters-read.md",
-      "title": "Lecture 1 \u2014 The LinkedIn Profile Recruiters Read"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/lecture-notes/02-the-github-profile-that-tells-a-story.md",
-      "title": "Lecture 2 \u2014 The GitHub Profile That Tells a Story"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/mini-project/README.md",
-      "title": "Mini-Project \u2014 Polished Public Surface: LinkedIn + GitHub, Peer-Reviewed"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/quiz.md",
-      "title": "Week 3 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-03-linkedin-github-portfolio/resources.md",
+      "path": "curriculum/week-03-linkedin-github-portfolio/01-resources.md",
       "title": "Week 3 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-04-recruiter-screen-survival/README.md",
+      "path": "curriculum/week-03-linkedin-github-portfolio/02-lecture-notes/01-the-linkedin-profile-recruiters-read.md",
+      "title": "Lecture 1 \u2014 The LinkedIn Profile Recruiters Read"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/02-lecture-notes/02-the-github-profile-that-tells-a-story.md",
+      "title": "Lecture 2 \u2014 The GitHub Profile That Tells a Story"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/03-exercises/00-overview.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/03-exercises/exercise-01-rewrite-headline-and-about.md",
+      "title": "Exercise 1 \u2014 Rewrite headline and About"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/03-exercises/exercise-02-pin-three-best-repos.md",
+      "title": "Exercise 2 \u2014 Pin three best repos"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/03-exercises/exercise-03-readme-for-your-top-project.md",
+      "title": "Exercise 3 \u2014 README for your top project"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/04-challenges/00-overview.md",
+      "title": "Week 3 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/04-challenges/challenge-01-the-recruiter-skim-test.md",
+      "title": "Challenge 1 \u2014 The recruiter skim test"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/05-quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/06-homework.md",
+      "title": "Week 3 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-03-linkedin-github-portfolio/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Polished Public Surface: LinkedIn + GitHub, Peer-Reviewed"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/00-overview.md",
       "title": "Week 4 \u2014 The Recruiter Screen Survival Kit"
     },
     {
-      "path": "curriculum/week-04-recruiter-screen-survival/challenges/README.md",
-      "title": "Week 4 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/challenges/challenge-01-mock-recruiter-screen.md",
-      "title": "Challenge 1 \u2014 Mock recruiter screen with a peer"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/exercises/README.md",
-      "title": "Week 4 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/exercises/exercise-01-tell-me-about-yourself.md",
-      "title": "Exercise 1 \u2014 Tell me about yourself"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/exercises/exercise-02-why-this-company.md",
-      "title": "Exercise 2 \u2014 Why this company"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/exercises/exercise-03-comp-research-deep.md",
-      "title": "Exercise 3 \u2014 Comp research deep-dive"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/homework.md",
-      "title": "Week 4 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/lecture-notes/01-the-30-minute-call-anatomy.md",
-      "title": "Lecture 1 \u2014 The 30-Minute Call Anatomy"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/lecture-notes/02-the-comp-conversation.md",
-      "title": "Lecture 2 \u2014 The Comp Conversation"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/mini-project/README.md",
-      "title": "Mini-Project \u2014 Recorded Mock Recruiter Screen with Self-Feedback"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/quiz.md",
-      "title": "Week 4 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-04-recruiter-screen-survival/resources.md",
+      "path": "curriculum/week-04-recruiter-screen-survival/01-resources.md",
       "title": "Week 4 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-05-hiring-manager-screen/README.md",
+      "path": "curriculum/week-04-recruiter-screen-survival/02-lecture-notes/01-the-30-minute-call-anatomy.md",
+      "title": "Lecture 1 \u2014 The 30-Minute Call Anatomy"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/02-lecture-notes/02-the-comp-conversation.md",
+      "title": "Lecture 2 \u2014 The Comp Conversation"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/03-exercises/00-overview.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/03-exercises/exercise-01-tell-me-about-yourself.md",
+      "title": "Exercise 1 \u2014 Tell me about yourself"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/03-exercises/exercise-02-why-this-company.md",
+      "title": "Exercise 2 \u2014 Why this company"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/03-exercises/exercise-03-comp-research-deep.md",
+      "title": "Exercise 3 \u2014 Comp research deep-dive"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/04-challenges/00-overview.md",
+      "title": "Week 4 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/04-challenges/challenge-01-mock-recruiter-screen.md",
+      "title": "Challenge 1 \u2014 Mock recruiter screen with a peer"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/05-quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/06-homework.md",
+      "title": "Week 4 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-04-recruiter-screen-survival/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Recorded Mock Recruiter Screen with Self-Feedback"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/00-overview.md",
       "title": "Week 5 \u2014 The Hiring Manager Screen"
     },
     {
-      "path": "curriculum/week-05-hiring-manager-screen/challenges/README.md",
-      "title": "Week 5 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/challenges/challenge-01-handle-the-trick-question.md",
-      "title": "Challenge 1 \u2014 Handle the trick question"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/exercises/README.md",
-      "title": "Week 5 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/exercises/exercise-01-your-recent-project-story.md",
-      "title": "Exercise 1 \u2014 Your recent-project story"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/exercises/exercise-02-questions-to-ask.md",
-      "title": "Exercise 2 \u2014 Questions to ask"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/exercises/exercise-03-pair-mock.md",
-      "title": "Exercise 3 \u2014 Pair mock"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/homework.md",
-      "title": "Week 5 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/lecture-notes/01-the-hiring-manager-conversation.md",
-      "title": "Lecture 1 \u2014 The Hiring Manager Conversation"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/lecture-notes/02-asking-the-right-questions-back.md",
-      "title": "Lecture 2 \u2014 Asking the Right Questions Back"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/mini-project/README.md",
-      "title": "Mini-Project \u2014 Recorded Mock Hiring-Manager Screen with Self-Feedback"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/quiz.md",
-      "title": "Week 5 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-05-hiring-manager-screen/resources.md",
+      "path": "curriculum/week-05-hiring-manager-screen/01-resources.md",
       "title": "Week 5 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-06-technical-phone-screen/README.md",
+      "path": "curriculum/week-05-hiring-manager-screen/02-lecture-notes/01-the-hiring-manager-conversation.md",
+      "title": "Lecture 1 \u2014 The Hiring Manager Conversation"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/02-lecture-notes/02-asking-the-right-questions-back.md",
+      "title": "Lecture 2 \u2014 Asking the Right Questions Back"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/03-exercises/00-overview.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/03-exercises/exercise-01-your-recent-project-story.md",
+      "title": "Exercise 1 \u2014 Your recent-project story"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/03-exercises/exercise-02-questions-to-ask.md",
+      "title": "Exercise 2 \u2014 Questions to ask"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/03-exercises/exercise-03-pair-mock.md",
+      "title": "Exercise 3 \u2014 Pair mock"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/04-challenges/00-overview.md",
+      "title": "Week 5 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/04-challenges/challenge-01-handle-the-trick-question.md",
+      "title": "Challenge 1 \u2014 Handle the trick question"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/05-quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/06-homework.md",
+      "title": "Week 5 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-05-hiring-manager-screen/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Recorded Mock Hiring-Manager Screen with Self-Feedback"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/00-overview.md",
       "title": "Week 6 \u2014 The Technical Phone Screen"
     },
     {
-      "path": "curriculum/week-06-technical-phone-screen/challenges/README.md",
-      "title": "Week 6 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/challenges/challenge-01-do-an-easy-leetcode-on-coderpad-narrated.md",
-      "title": "Challenge 1 \u2014 Do an easy LeetCode on CoderPad, narrated"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/exercises/README.md",
-      "title": "Week 6 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/exercises/exercise-01-mock-screen-with-peer.md",
-      "title": "Exercise 1 \u2014 Mock screen with a peer"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/exercises/exercise-02-narrate-coderpad.md",
-      "title": "Exercise 2 \u2014 Narrate on CoderPad"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/exercises/exercise-03-handle-the-followup-question.md",
-      "title": "Exercise 3 \u2014 Handle the follow-up question"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/homework.md",
-      "title": "Week 6 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/lecture-notes/01-the-shared-editor-call.md",
-      "title": "Lecture 1 \u2014 The Shared-Editor Call"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/lecture-notes/02-thinking-out-loud-on-a-call.md",
-      "title": "Lecture 2 \u2014 Thinking Out Loud on a Call"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/mini-project/README.md",
-      "title": "Mini-Project \u2014 Recorded Mock Technical Phone Screen Using a Shared Editor"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/quiz.md",
-      "title": "Week 6 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-06-technical-phone-screen/resources.md",
+      "path": "curriculum/week-06-technical-phone-screen/01-resources.md",
       "title": "Week 6 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/README.md",
+      "path": "curriculum/week-06-technical-phone-screen/02-lecture-notes/01-the-shared-editor-call.md",
+      "title": "Lecture 1 \u2014 The Shared-Editor Call"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/02-lecture-notes/02-thinking-out-loud-on-a-call.md",
+      "title": "Lecture 2 \u2014 Thinking Out Loud on a Call"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/03-exercises/00-overview.md",
+      "title": "Week 6 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/03-exercises/exercise-01-mock-screen-with-peer.md",
+      "title": "Exercise 1 \u2014 Mock screen with a peer"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/03-exercises/exercise-02-narrate-coderpad.md",
+      "title": "Exercise 2 \u2014 Narrate on CoderPad"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/03-exercises/exercise-03-handle-the-followup-question.md",
+      "title": "Exercise 3 \u2014 Handle the follow-up question"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/04-challenges/00-overview.md",
+      "title": "Week 6 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/04-challenges/challenge-01-do-an-easy-leetcode-on-coderpad-narrated.md",
+      "title": "Challenge 1 \u2014 Do an easy LeetCode on CoderPad, narrated"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/05-quiz.md",
+      "title": "Week 6 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/06-homework.md",
+      "title": "Week 6 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-06-technical-phone-screen/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Recorded Mock Technical Phone Screen Using a Shared Editor"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/00-overview.md",
       "title": "Week 7 \u2014 The Onsite: Day-of Logistics"
     },
     {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/challenges/challenge-01-shadow-a-real-loop.md",
-      "title": "Challenge 1 \u2014 Shadow a Real Loop"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/challenges/challenge-02-after-action-template.md",
-      "title": "Challenge 2 \u2014 After-Action Template"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/exercises/exercise-01-mock-day-script.md",
-      "title": "Exercise 1 \u2014 Mock Day Script"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/exercises/exercise-02-deflection-rehearsal.md",
-      "title": "Exercise 2 \u2014 Deflection Rehearsal"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/exercises/exercise-03-debrief-self-eval.md",
-      "title": "Exercise 3 \u2014 Debrief Self-Eval"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/homework.md",
-      "title": "Week 7 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/lecture-notes/01-the-shape-of-an-onsite.md",
-      "title": "Lecture 1 \u2014 The Shape of an Onsite"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/lecture-notes/02-reading-the-room-and-pacing.md",
-      "title": "Lecture 2 \u2014 Reading the Room and Pacing"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/lecture-notes/03-handling-hostile-and-illegal-questions.md",
-      "title": "Lecture 3 \u2014 Handling Hostile and Illegal Questions"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/mini-project/README.md",
-      "title": "Mini-Project \u2014 A 4-Hour Mock Onsite with Peers"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/quiz.md",
-      "title": "Week 7 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-07-the-onsite-day-of-logistics/resources.md",
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/01-resources.md",
       "title": "Week 7 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-08-system-design-101/README.md",
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/02-lecture-notes/01-the-shape-of-an-onsite.md",
+      "title": "Lecture 1 \u2014 The Shape of an Onsite"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/02-lecture-notes/02-reading-the-room-and-pacing.md",
+      "title": "Lecture 2 \u2014 Reading the Room and Pacing"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/02-lecture-notes/03-handling-hostile-and-illegal-questions.md",
+      "title": "Lecture 3 \u2014 Handling Hostile and Illegal Questions"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/03-exercises/00-overview.md",
+      "title": "Week 7 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/03-exercises/exercise-01-mock-day-script.md",
+      "title": "Exercise 1 \u2014 Mock Day Script"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/03-exercises/exercise-02-deflection-rehearsal.md",
+      "title": "Exercise 2 \u2014 Deflection Rehearsal"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/03-exercises/exercise-03-debrief-self-eval.md",
+      "title": "Exercise 3 \u2014 Debrief Self-Eval"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/04-challenges/00-overview.md",
+      "title": "Week 7 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/04-challenges/challenge-01-shadow-a-real-loop.md",
+      "title": "Challenge 1 \u2014 Shadow a Real Loop"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/04-challenges/challenge-02-after-action-template.md",
+      "title": "Challenge 2 \u2014 After-Action Template"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/05-quiz.md",
+      "title": "Week 7 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/06-homework.md",
+      "title": "Week 7 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-07-the-onsite-day-of-logistics/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 A 4-Hour Mock Onsite with Peers"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/00-overview.md",
       "title": "Week 8 \u2014 System Design 101: FAANG-Style Design Rounds for New-Grad and L4"
     },
     {
-      "path": "curriculum/week-08-system-design-101/challenges/challenge-01-senior-drift.md",
-      "title": "Challenge 1 \u2014 The Senior-Drift Drill"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/challenges/challenge-02-the-rubric.md",
-      "title": "Challenge 2 \u2014 Build the Rubric, Score Yourself"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/exercises/SOLUTIONS.md",
-      "title": "Exercises \u2014 Sample Strong Answers"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/exercises/exercise-01-url-shortener-walkthrough.md",
-      "title": "Exercise 1 \u2014 URL Shortener Walkthrough"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/exercises/exercise-02-rate-limiter.md",
-      "title": "Exercise 2 \u2014 Rate Limiter"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/exercises/exercise-03-news-feed.md",
-      "title": "Exercise 3 \u2014 News Feed"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/homework.md",
-      "title": "Week 8 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/lecture-notes/01-the-45-minute-design-round.md",
-      "title": "Lecture 1 \u2014 The 45-Minute Design Round"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/lecture-notes/02-back-of-envelope-and-latency-numbers.md",
-      "title": "Lecture 2 \u2014 Back-of-Envelope Estimation and Latency Numbers"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/lecture-notes/03-the-six-classic-problems.md",
-      "title": "Lecture 3 \u2014 The Six Classic 101-Level Problems"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/mini-project/DESIGN.md",
-      "title": "TinyURL Clone \u2014 System Design"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/mini-project/README.md",
-      "title": "Mini-Project \u2014 TinyURL Clone: End-to-End Design Write-Up"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/quiz.md",
-      "title": "Week 8 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-08-system-design-101/resources.md",
+      "path": "curriculum/week-08-system-design-101/01-resources.md",
       "title": "Week 8 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-09-live-coding-interview/README.md",
+      "path": "curriculum/week-08-system-design-101/02-lecture-notes/01-the-45-minute-design-round.md",
+      "title": "Lecture 1 \u2014 The 45-Minute Design Round"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/02-lecture-notes/02-back-of-envelope-and-latency-numbers.md",
+      "title": "Lecture 2 \u2014 Back-of-Envelope Estimation and Latency Numbers"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/02-lecture-notes/03-the-six-classic-problems.md",
+      "title": "Lecture 3 \u2014 The Six Classic 101-Level Problems"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/03-exercises/00-overview.md",
+      "title": "Week 8 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/03-exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 Sample Strong Answers"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/03-exercises/exercise-01-url-shortener-walkthrough.md",
+      "title": "Exercise 1 \u2014 URL Shortener Walkthrough"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/03-exercises/exercise-02-rate-limiter.md",
+      "title": "Exercise 2 \u2014 Rate Limiter"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/03-exercises/exercise-03-news-feed.md",
+      "title": "Exercise 3 \u2014 News Feed"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/04-challenges/00-overview.md",
+      "title": "Week 8 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/04-challenges/challenge-01-senior-drift.md",
+      "title": "Challenge 1 \u2014 The Senior-Drift Drill"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/04-challenges/challenge-02-the-rubric.md",
+      "title": "Challenge 2 \u2014 Build the Rubric, Score Yourself"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/05-quiz.md",
+      "title": "Week 8 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/06-homework.md",
+      "title": "Week 8 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 TinyURL Clone: End-to-End Design Write-Up"
+    },
+    {
+      "path": "curriculum/week-08-system-design-101/07-mini-project/DESIGN.md",
+      "title": "TinyURL Clone \u2014 System Design"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/00-overview.md",
       "title": "Week 9 \u2014 The Live Coding Interview: 45 Minutes, One Screen, One Interviewer"
     },
     {
-      "path": "curriculum/week-09-live-coding-interview/challenges/challenge-01-the-hint-ego-drill.md",
-      "title": "Challenge 1 \u2014 The Hint-Ego Drill"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/challenges/challenge-02-the-over-engineering-trap.md",
-      "title": "Challenge 2 \u2014 The Over-Engineering Trap"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/exercises/SOLUTIONS.md",
-      "title": "Week 9 Exercises \u2014 Sample Strong Responses"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/exercises/exercise-01-the-clarification-drill.md",
-      "title": "Exercise 1 \u2014 The Clarification Drill"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/exercises/exercise-02-the-stuck-recovery-drill.md",
-      "title": "Exercise 2 \u2014 The Stuck-Recovery Drill"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/exercises/exercise-03-the-complexity-defence-drill.md",
-      "title": "Exercise 3 \u2014 The Complexity-Defence Drill"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/homework.md",
-      "title": "Week 9 Homework"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/lecture-notes/01-the-45-minute-structure.md",
-      "title": "Lecture 1 \u2014 The 45-Minute Structure: Six Phases, One Clock"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/lecture-notes/02-failure-modes-and-recovery.md",
-      "title": "Lecture 2 \u2014 The Four Failure Modes and the Recovery Patterns"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/lecture-notes/03-two-worked-transcripts.md",
-      "title": "Lecture 3 \u2014 Two Worked Transcripts: One That Went Well, One That Went Badly and Recovered"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/mini-project/README.md",
-      "title": "Mini-Project \u2014 Record Yourself Coding, Self-Grade Against a Rubric"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/mini-project/RUBRIC.md",
-      "title": "Mini-Project Rubric \u2014 The 12-Axis Self-Grading Sheet"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/quiz.md",
-      "title": "Week 9 Quiz \u2014 The Live Coding Interview"
-    },
-    {
-      "path": "curriculum/week-09-live-coding-interview/resources.md",
+      "path": "curriculum/week-09-live-coding-interview/01-resources.md",
       "title": "Week 9 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/README.md",
+      "path": "curriculum/week-09-live-coding-interview/02-lecture-notes/01-the-45-minute-structure.md",
+      "title": "Lecture 1 \u2014 The 45-Minute Structure: Six Phases, One Clock"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/02-lecture-notes/02-failure-modes-and-recovery.md",
+      "title": "Lecture 2 \u2014 The Four Failure Modes and the Recovery Patterns"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/02-lecture-notes/03-two-worked-transcripts.md",
+      "title": "Lecture 3 \u2014 Two Worked Transcripts: One That Went Well, One That Went Badly and Recovered"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/03-exercises/00-overview.md",
+      "title": "Week 9 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/03-exercises/SOLUTIONS.md",
+      "title": "Week 9 Exercises \u2014 Sample Strong Responses"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/03-exercises/exercise-01-the-clarification-drill.md",
+      "title": "Exercise 1 \u2014 The Clarification Drill"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/03-exercises/exercise-02-the-stuck-recovery-drill.md",
+      "title": "Exercise 2 \u2014 The Stuck-Recovery Drill"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/03-exercises/exercise-03-the-complexity-defence-drill.md",
+      "title": "Exercise 3 \u2014 The Complexity-Defence Drill"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/04-challenges/00-overview.md",
+      "title": "Week 9 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/04-challenges/challenge-01-the-hint-ego-drill.md",
+      "title": "Challenge 1 \u2014 The Hint-Ego Drill"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/04-challenges/challenge-02-the-over-engineering-trap.md",
+      "title": "Challenge 2 \u2014 The Over-Engineering Trap"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/05-quiz.md",
+      "title": "Week 9 Quiz \u2014 The Live Coding Interview"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/06-homework.md",
+      "title": "Week 9 Homework"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Record Yourself Coding, Self-Grade Against a Rubric"
+    },
+    {
+      "path": "curriculum/week-09-live-coding-interview/07-mini-project/RUBRIC.md",
+      "title": "Mini-Project Rubric \u2014 The 12-Axis Self-Grading Sheet"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/00-overview.md",
       "title": "Week 10 \u2014 Offers, Negotiation, and Compensation Literacy"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/challenges/challenge-01-the-exploding-offer.md",
-      "title": "Challenge 1 \u2014 The Exploding Offer Drill"
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/01-resources.md",
+      "title": "Resources \u2014 Week 10: Offers, Negotiation, and Compensation Literacy"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/challenges/challenge-02-the-decline-email.md",
-      "title": "Challenge 2 \u2014 The Decline-Gracefully Email"
-    },
-    {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/exercises/SOLUTIONS.md",
-      "title": "Solutions \u2014 Exercises 1, 2, 3 (Strong-Response Scripts)"
-    },
-    {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/exercises/exercise-01-the-first-move-drill.md",
-      "title": "Exercise 1 \u2014 The First-Move Drill"
-    },
-    {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/exercises/exercise-02-the-counter-offer-drill.md",
-      "title": "Exercise 2 \u2014 The Counter-Offer Drill"
-    },
-    {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/exercises/exercise-03-the-multi-offer-frame.md",
-      "title": "Exercise 3 \u2014 The Multi-Offer Frame Drill"
-    },
-    {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/homework.md",
-      "title": "Week 10 Homework \u2014 Six Items, ~6 Hours, With Rubric"
-    },
-    {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/lecture-notes/01-reading-the-offer-letter.md",
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/02-lecture-notes/01-reading-the-offer-letter.md",
       "title": "Lecture 1 \u2014 Reading the Offer Letter, Line by Line"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/lecture-notes/02-the-levels-fyi-reading-room.md",
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/02-lecture-notes/02-the-levels-fyi-reading-room.md",
       "title": "Lecture 2 \u2014 The levels.fyi Reading Room and the BLS Calibration"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/lecture-notes/03-the-negotiation-conversation.md",
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/02-lecture-notes/03-the-negotiation-conversation.md",
       "title": "Lecture 3 \u2014 The Negotiation Conversation, From \"Hi\" to Countersigned"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/mini-project/COMP-SPREADSHEET-TEMPLATE.md",
-      "title": "Comp-Calc Spreadsheet Template"
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/03-exercises/00-overview.md",
+      "title": "Week 10 \u2014 Exercises"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/mini-project/README.md",
-      "title": "Mini-Project \u2014 The C13 Capstone"
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/03-exercises/SOLUTIONS.md",
+      "title": "Solutions \u2014 Exercises 1, 2, 3 (Strong-Response Scripts)"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/mini-project/RUBRIC.md",
-      "title": "Capstone Rubric \u2014 Self-Grading Calibration"
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/03-exercises/exercise-01-the-first-move-drill.md",
+      "title": "Exercise 1 \u2014 The First-Move Drill"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/quiz.md",
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/03-exercises/exercise-02-the-counter-offer-drill.md",
+      "title": "Exercise 2 \u2014 The Counter-Offer Drill"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/03-exercises/exercise-03-the-multi-offer-frame.md",
+      "title": "Exercise 3 \u2014 The Multi-Offer Frame Drill"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/04-challenges/00-overview.md",
+      "title": "Week 10 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/04-challenges/challenge-01-the-exploding-offer.md",
+      "title": "Challenge 1 \u2014 The Exploding Offer Drill"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/04-challenges/challenge-02-the-decline-email.md",
+      "title": "Challenge 2 \u2014 The Decline-Gracefully Email"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/05-quiz.md",
       "title": "Week 10 Quiz \u2014 Final Exam Format"
     },
     {
-      "path": "curriculum/week-10-negotiation-offers-and-compensation/resources.md",
-      "title": "Resources \u2014 Week 10: Offers, Negotiation, and Compensation Literacy"
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/06-homework.md",
+      "title": "Week 10 Homework \u2014 Six Items, ~6 Hours, With Rubric"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The C13 Capstone"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/07-mini-project/COMP-SPREADSHEET-TEMPLATE.md",
+      "title": "Comp-Calc Spreadsheet Template"
+    },
+    {
+      "path": "curriculum/week-10-negotiation-offers-and-compensation/07-mini-project/RUBRIC.md",
+      "title": "Capstone Rubric \u2014 Self-Grading Calibration"
+    },
+    {
+      "path": "past-sessions/C13-SPRING2025/README-C13-SPR25.MD",
+      "title": "C1 Crunch Convos"
+    },
+    {
+      "path": "resources/setup-guides/00-overview.md",
+      "title": "Setup Guides"
+    },
+    {
+      "path": "resources/setup-guides/browser.md",
+      "title": "Browser-Based Setup (No Install)"
+    },
+    {
+      "path": "resources/setup-guides/linux.md",
+      "title": "Linux Setup Guide"
+    },
+    {
+      "path": "resources/setup-guides/macos.md",
+      "title": "macOS Setup Guide"
+    },
+    {
+      "path": "resources/setup-guides/windows.md",
+      "title": "Windows Setup Guide"
     }
   ]
 }
